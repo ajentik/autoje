@@ -1,0 +1,7 @@
+commit	composite_score	vitest_failed	vitest_pending	status	description
+c9a92ab	1150	1	15	baseline	TRUE BASELINE (evaluator v2): 1 failing (storybook-coverage), 15 pending
+776bc26	100	0	10	kept	Enable 2 createFocusTrap tests with offsetParent mock
+6ac1495	90	0	9	kept	Enable focus trap property test with offsetParent mock
+7e3e26f	50	0	5	kept	Enable 4 meetsMinTouchTargetSize tests with getBoundingClientRect mock
+98d119e	20	0	2	kept	Enable 3 getSmallTouchTargets tests with getBoundingClientRect mock
+4d2c501	0	0	0	kept	Enable 2 touch target property tests with getBoundingClientRect mock — SCORE 0!
