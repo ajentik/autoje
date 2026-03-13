@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /Users/a1/.openclaw/workspace/sct
+opencode run "You are an autonomous AutoJe experiment agent for ajentik/sct frontend. Read these files first: /Users/a1/.openclaw/workspace/autoje/programs/sct-frontend.md (strategy) and /Users/a1/.openclaw/workspace/autoje/runners/sct-frontend-prompt.md (loop instructions). Branch: autoje/mar13-frontend. Evaluator: bash /Users/a1/.openclaw/workspace/autoje/evaluators/sct-frontend.sh /Users/a1/.openclaw/workspace/sct. Log results to /Users/a1/.openclaw/workspace/autoje/results/sct-frontend.tsv. Run the experiment loop: evaluate baseline, then repeatedly make ONE change, evaluate, keep if score improves, discard if not. NEVER stop."
